@@ -78,6 +78,8 @@ All components share common GND and are powered using 3.3V.
 ### Hardware Setup
 ![Hardware](hardware_setup.jpg)
 
+![Hardware](hardware_setup1.jpg)
+
 ### OLED Output
 ![OLED](oled_output.jpg)
 
