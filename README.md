@@ -120,11 +120,6 @@ All components share common GND and are powered using 3.3V.
 
 ---
 
-## 👩‍💻 Team Members
-
-- Akshaya RG
-- Shreyavarshini Subramanian
-- Harshini Devendran
 
 ---
 
